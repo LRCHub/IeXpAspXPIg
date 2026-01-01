@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星屑ワンルーム",
+  "base_artist": "hockrockb",
+  "createdAt": "2026-01-01T15:20:31.070632Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星屑ワンルーム",
+      "artist": "hockrockb",
+      "has_synced": false,
+      "path": "select/pl_01_星屑ワンルーム_hockrockb.txt"
+    }
+  ]
+}
